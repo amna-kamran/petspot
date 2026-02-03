@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 548 548" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <g transform="matrix(1,0,0,1,-120.108,-126.157)">
+        <g transform="matrix(0.952834,0,0,0.952834,6.91122,27.4159)">
+            <circle cx="406.25" cy="391.079" r="287.45" style="fill:rgb(168,222,243);"/>
+        </g>
+        <g transform="matrix(0.883174,0,0,0.883174,34.0521,50.3112)">
+            <path d="M321.932,635.877C557.002,686.518 707.586,436.836 616.09,270.048C503.026,63.968 123.654,212.876 153.687,438.742C173.391,586.888 426.194,631.136 469.024,473.714C476.594,445.872 473.428,315.642 436.282,306.336C432.812,305.46 388.404,351.65 368.834,351.65C353.462,351.65 319.232,275.918 282.968,351.65" style="fill:white;fill-rule:nonzero;stroke:black;stroke-opacity:0.9;stroke-width:32px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,11.0734,-74.3703)">
+            <g transform="matrix(0.668117,0,0,0.892681,-34.2068,173.37)">
+                <ellipse cx="472.599" cy="400.049" rx="24.774" ry="12.049" style="fill:rgb(252,198,198);"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,11.0734,-74.3703)">
+            <g transform="matrix(0.668117,0,0,0.892681,80.2725,173.37)">
+                <ellipse cx="472.599" cy="400.049" rx="24.774" ry="12.049" style="fill:rgb(252,198,198);"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,0.581113,-149.626,217.061)">
+            <path d="M468,336L468,346" style="fill:none;fill-rule:nonzero;stroke:black;stroke-opacity:0.9;stroke-width:32px;"/>
+        </g>
+        <g transform="matrix(1,0,0,0.581113,-68,219.966)">
+            <path d="M468,336L468,346" style="fill:none;fill-rule:nonzero;stroke:black;stroke-opacity:0.9;stroke-width:32px;"/>
+        </g>
+    </g>
+</svg>

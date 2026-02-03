@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 548 548" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <g transform="matrix(1,0,0,1,-120.108,-126.157)">
+        <g transform="matrix(0.952834,0,0,0.952834,6.91122,27.4159)">
+            <circle cx="406.25" cy="391.079" r="287.45" style="fill:rgb(168,222,243);"/>
+        </g>
+        <g>
+            <path d="M178.236,368.81C178.236,368.81 94.394,546.677 337.209,544.857C597.571,542.906 678.353,429.96 629,412.098C579.647,394.236 304.305,299.947 178.236,368.81Z" style="fill:white;"/>
+            <path d="M166.115,422.5C181.384,278.151 311.672,174.263 453.434,217.53C552.354,247.722 510.856,303.984 549.296,340.972C570.984,357.658 629.866,335.262 645.096,356.094C658.56,374.518 648.832,408.13 645.096,430.194C630.358,517.194 530.626,530 446.13,530" style="fill:white;fill-rule:nonzero;stroke:black;stroke-opacity:0.9;stroke-width:28.3px;"/>
+            <path d="M650,388C643.036,374.784 627.144,362.428 608,352" style="fill:none;fill-rule:nonzero;stroke:black;stroke-opacity:0.9;stroke-width:32px;"/>
+            <path d="M264.484,362.44C259.456,389.816 181.946,576.286 262.19,592.172C411.216,613.46 393.33,443.942 393.33,338" style="fill:white;fill-rule:nonzero;stroke:black;stroke-opacity:0.9;stroke-width:28.3px;"/>
+            <path d="M468,336L468,346" style="fill:none;fill-rule:nonzero;stroke:black;stroke-opacity:0.9;stroke-width:32px;"/>
+        </g>
+        <g transform="matrix(0.833861,0,0,1.23367,78.0239,-78.6166)">
+            <ellipse cx="472.599" cy="400.049" rx="24.774" ry="12.049" style="fill:rgb(252,198,198);"/>
+        </g>
+    </g>
+</svg>
