@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  outputFileTracingRoot: __dirname,
+  experimental: {
+    appDir: true, // enable app router
+  },
   images: {
     remotePatterns: [
       {
